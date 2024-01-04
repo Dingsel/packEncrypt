@@ -1,6 +1,6 @@
 # Pack Encrypt
 
-Pack Encrypt Is A [Regolith Filter](https://bedrock-oss.github.io/regolith/guide/filters) To Automaticly Encrypt RP Packs Using A Build Tool Called Regolith. This Filter Can Be Modified To Work In Other Enviroments Aswell And Should Be Easy To Modify To Work In Any Node Enviroment.
+Pack Encrypt Is A [Regolith Filter](https://bedrock-oss.github.io/regolith/guide/filters) To Automaticly Encrypt RP Packs Using A Build Tool Called Regolith. This Script Can Be Modified To Work In Any Enviroment.
 
 ## How It Works
 ⚠️NOT EVERY SERVER SOFTWARE SUPPORTS ENCRYPTED PACKS AND I AM UNAWARE OF METHODS TO MAKE IT WORK IN WORLDS⚠️
