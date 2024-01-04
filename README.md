@@ -29,4 +29,4 @@ BDS IS NOT ONE OF THEM
 | LiteLoaderBDS / LeviLamina | Need To Test But Probably Not |
 
 ## Without Regolith
-Regolith Operates In Temporary Directories. Depending On Your File Structure You Might Wanna Change The Paths. This Program Assumes That It Is Placed From A Place One Above The RP Folder So Build Your File Structure Arround That It Can Access A RP Folder Relative To Its Execution.
+Regolith Operates In Temporary Directories. Depending On Your File Structure You Might Wanna Change The Paths. This Program Assumes That It Is Placed In A Place One Above The RP Folder So Build Your File Structure Arround That It Can Access A RP Folder Relative To Its Execution.
