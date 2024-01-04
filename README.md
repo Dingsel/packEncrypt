@@ -1,6 +1,6 @@
 # Pack Encrypt
 
-Pack Encrypt Is A [Regolith Filter](https://bedrock-oss.github.io/regolith/guide/filters) To Automaticly Encrypt RP Packs Using A Build Tool Called Regolith. This [Regolith Filter](https://bedrock-oss.github.io/regolith/guide/filters) Can Be Modified To Work In Other Enviroments Aswell.
+Pack Encrypt Is A [Regolith Filter](https://bedrock-oss.github.io/regolith/guide/filters) To Automaticly Encrypt RP Packs Using A Build Tool Called Regolith. This Filter Can Be Modified To Work In Other Enviroments Aswell And Should Be Easy To Modify To Work In Any Node Enviroment.
 
 ## How It Works
 ⚠️NOT EVERY SERVER SOFTWARE SUPPORTS ENCRYPTED PACKS AND I AM UNAWARE OF METHODS TO MAKE IT WORK IN WORLDS⚠️
@@ -27,3 +27,6 @@ BDS IS NOT ONE OF THEM
 | BDS | ⭕ |
 | BDSX | Need To Test But Probably Not |
 | LiteLoaderBDS / LeviLamina | Need To Test But Probably Not |
+
+## Without Regolith
+Regolith Operates In Temporary Directories. Depending On Your File Structure You Might Wanna Change The Paths. This Program Assumes That It Is Placed From A Place One Above The RP Folder So Build Your File Structure Arround That It Can Access A RP Folder Relative To Its Execution.
